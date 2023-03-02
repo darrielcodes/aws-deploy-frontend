@@ -42,7 +42,7 @@ class Navbar extends Component {
                                 }
                         activeStyle={{color: 'white', textDecoration: 'underline white'}}
                     >
-                        Hamster
+                        Blog!
                     </NavLink>
 
                     <NavLink
@@ -53,7 +53,7 @@ class Navbar extends Component {
                                 }
                         activeStyle={{color: 'white', textDecoration: 'underline white'}}
                     >
-                        Create Talk
+                        Create Blog
                     </NavLink>
 
                     <NavLink
